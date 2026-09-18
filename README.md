@@ -4,14 +4,11 @@
 
 </div>
 
-<pre align="center">
-   _____                          .__               
-  /  _  \   ___.__.______ _____   |  |__   ___.__.  
- /  /_\  \ <   |  |\_  __ \\__  \  |  |  \ <   |  |  
-/    |    \ \___  | |  | \/ / __ \_|   Y  \ \___  |  
-\____|__  / / ____| |__|   (____  /|___|  / / ____|  
-        \/  \/                  \/      \/  \/       
-</pre>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=180&section=header&text=Abxc0des&fontSize=65&fontColor=00FF41&animation=fadeIn&fontAlignY=40" width="100%" />
+
+</div>
 
 <div align="center">
 
