@@ -1,24 +1,136 @@
-# 💫 About Me:
-Hi, I'm Abubakar 👋 (abxc0des)<br>First-year CSE student at Lords Institute of Engineering and Technology, Hyderabad — I build AI-powered web apps fast, ship them in public, and compete in hackathons. I lead CESE ("The Social Impactor") at LIET and I'm plugged into Hyderabad's startup ecosystem through the OTBI/TBI network.<br>I work as a "vibe coder" — I move fast by pairing AI tools (Claude, Cursor, Antigravity, Lovable) with a solid product sense, rather than writing every line from scratch. My focus is on shipping real, working products, not just prototypes.<br>🛠️ Tech Stack<br>Frontend: React · Next.js · Vite Backend / Data: Firebase · Supabase · Google Apps Script AI / APIs: Gemini API Maps / Geo: Leaflet.js · OSRM Hosting / Deploy: Netlify · GitHub Pages AI Dev Tools: Claude · Cursor · Antigravity · Lovable<br>🚀 Featured Projects<br>🧭 HerWay (SafeNav)<br>A women's safety navigation app with real map-based routing. Stack: Next.js · Firebase · Leaflet.js · OSRM 🏆 1st Place — Talent Hunt 2026 Hackathon, LIET<br>👻 GhostMentor<br>An AI pitch-deck roasting SaaS with a freemium model — brutally honest AI feedback on startup decks. Stack: React · Vite · Supabase · Gemini API<br>🔍 RealOrFake.ai<br>An AI-generated media detector that flags real vs. AI-generated content, with logging via Google Sheets. Stack: Gemini API · Google Sheets<br>💳 RecoverAI — Razorpay AI Buildathon (Track 03)<br>An AI Revenue Recovery Agent layered on Razorpay's subscription retry system — diagnoses failed payments with Gemini and applies a deterministic policy engine for recovery eligibility. Stack: Razorpay · Gemini API · Supabase
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;Abubakar+%E2%80%94+building+%40+abxc0des;first-year+CSE+%40+LIET%2C+Hyderabad;shipping+AI+products%2C+not+prototypes;sudo+access%3A+granted" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaik-abubakar-siddique-145379366/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaikabubakarsiddique@proton.me) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Abxcodes&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Abxcodes&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abxcodes&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<pre align="center">
+   _____                          .__               
+  /  _  \   ___.__.______ _____   |  |__   ___.__.  
+ /  /_\  \ <   |  |\_  __ \\__  \  |  |  \ <   |  |  
+/    |    \ \___  | |  | \/ / __ \_|   Y  \ \___  |  
+\____|__  / / ____| |__|   (____  /|___|  / / ____|  
+        \/  \/                  \/      \/  \/       
+</pre>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abxcodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```bash
+> Status: Online — currently building for the Razorpay AI Buildathon
+```
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Abxcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `~/whoami`
+
+```yaml
+name: Abubakar
+handle: abxc0des
+role: First-year CSE Student @ Lords Institute of Engineering and Technology (LIET), Hyderabad
+title: Lead, CESE ("The Social Impactor") @ LIET
+network: Connected to the Hyderabad startup ecosystem via OTBI / TBI
+method: "Vibe coder" — pairs AI dev tools (Claude, Cursor, Antigravity, Lovable)
+         with product instinct to ship real, working software fast
+track_record: Multiple hackathon wins, building in public
+```
+
+---
+
+## `~/tech_stack --verbose`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,firebase,supabase,js,html,css,netlify,githubpages,vscode&theme=dark" />
+
+</div>
+
+```diff
++ Frontend        : React · Next.js · Vite
++ Backend / Data   : Firebase · Supabase · Google Apps Script
++ AI / APIs        : Gemini API
++ Maps / Geo       : Leaflet.js · OSRM
++ Deploy           : Netlify · GitHub Pages
++ Dev Agents       : Claude · Cursor · Antigravity · Lovable
+```
+
+---
+
+## `~/featured_projects --sort=impact`
+
+```
+[01] HerWay (SafeNav)                                          [ 🏆 1st Place ]
+     > Women's safety navigation app w/ real-time map routing
+     > stack: Next.js · Firebase · Leaflet.js · OSRM
+     > Won Talent Hunt 2026 Hackathon — LIET
+     > repo: github.com/Abxc0des/her-way
+
+[02] GhostMentor                                                [ SaaS / Live ]
+     > AI pitch-deck roasting engine — brutally honest startup feedback
+     > stack: React · Vite · Supabase · Gemini API
+     > model: Freemium
+
+[03] RealOrFake.ai                                              [ Detector ]
+     > AI-generated media detector w/ verdict logging
+     > stack: Gemini API · Google Sheets
+
+[04] RecoverAI — Razorpay AI Buildathon (Track 03)             [ In Progress ]
+     > AI Revenue Recovery Agent layered on Razorpay subscription retries
+     > diagnoses failed payments via Gemini + deterministic policy engine
+     > stack: Razorpay · Gemini API · Supabase
+```
+
+---
+
+## `~/stats --github`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abxc0des&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abxc0des&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abxc0des&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abxc0des&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=c9d1d9" />
+
+</div>
+
+---
+
+## `~/contribution_snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abxc0des/Abxc0des/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
+
+> ⚙️ This snake animation needs a one-time GitHub Action to generate it — see setup note below.
+
+---
+
+## `~/connect --socials`
+
+<div align="center">
+
+<a href="https://github.com/Abxc0des" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
+<!-- Uncomment and fill in the ones you use -->
+<!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a> -->
+<!-- <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41" /></a> -->
+<!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41" /></a> -->
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> exit_code: 0
+> process complete. building in public, one commit at a time.
+```
+
+<img src="https://komarev.com/ghpvc/?username=Abxc0des&label=Profile+Views&color=00FF41&style=flat" />
+
+</div>
